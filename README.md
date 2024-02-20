@@ -7,6 +7,3 @@ ErebusFullModel2024Slovenia aims to revolutionize robotic search and rescue oper
 - **Real-Time Sign Recognition:** Implements cutting-edge CNN techniques for instantaneous identification and interpretation of various signs, facilitating swift robotic response.
 - **TensorFlow Integration:** Utilizes TensorFlow to harness the power of deep learning, ensuring high accuracy and efficiency in sign recognition tasks.
 - **Comprehensive Documentation:** Offers detailed guidelines for setup, training, deployment, and integration into robotics projects, making it accessible for developers of all skill levels.
-
-Erebus:
-https://v23.erebus.rcj.cloud/
