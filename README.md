@@ -16,4 +16,4 @@ To get started with this project, clone the repository and install the necessary
 ```bash
 git clone https://github.com/yourusername/erebus-robocup-rescue.git
 cd erebus-robocup-rescue
-pip install -r requirements.txt
+
