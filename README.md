@@ -1,9 +1,19 @@
-# ErebusFullModel2024Slovenia
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ZY1OR0c-IN9-GxtAd9B11E6oMX7CPuE?usp=sharing)
-## Overview
-ErebusFullModel2024Slovenia aims to revolutionize robotic search and rescue operations by deploying a state-of-the-art Convolutional Neural Network (CNN) model, leveraging TensorFlow for sign recognition in the RoboCupJunior Rescue Simulation 2024. This initiative is at the forefront of combining artificial intelligence with robotics to enhance autonomous navigation and decision-making capabilities in complex environments.
+[![Erebus Documentation](https://img.shields.io/badge/View-Documentation-blue)](https://erebus.rcj.cloud/docs)
 
-## Key Features
-- **Real-Time Sign Recognition:** Implements cutting-edge CNN techniques for instantaneous identification and interpretation of various signs, facilitating swift robotic response.
-- **TensorFlow Integration:** Utilizes TensorFlow to harness the power of deep learning, ensuring high accuracy and efficiency in sign recognition tasks.
-- **Comprehensive Documentation:** Offers detailed guidelines for setup, training, deployment, and integration into robotics projects, making it accessible for developers of all skill levels.
+# Erebus RoboCup Rescue Simulation Project | 2024 Slovenia
+
+## Project Overview
+This repository is dedicated to our project for the Erebus RoboCup Rescue Simulation competition. Our team is developing innovative solutions to navigate the challenging environments of the competition, focusing on autonomous robot control, real-time sign recognition, and effective strategy implementation. Our goal is to push the boundaries of what's possible with AI and robotics in rescue scenarios.
+
+## Features
+- **Autonomous Navigation:** Utilizing advanced algorithms for seamless navigation through complex terrains.
+- **Real-Time Sign Recognition:** Implementing cutting-edge machine learning models to recognize and interpret signs accurately.
+- **Strategy Optimization:** Developing strategies to maximize the efficiency and effectiveness of rescue operations.
+
+## Getting Started
+To get started with this project, clone the repository and install the necessary dependencies.
+
+```bash
+git clone https://github.com/yourusername/erebus-robocup-rescue.git
+cd erebus-robocup-rescue
+pip install -r requirements.txt
