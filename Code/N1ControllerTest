@@ -1,0 +1,18 @@
+from controller import Robot
+
+timeStep = 32
+maxSpeed = 6.28
+
+robot = Robot()
+
+wheel_left = robot.getMotor("left wheel motor")
+wheel_right = robot.getMotor("right wheel motor")
+
+wheel_left.setVelocity(max_Velocity)
+wheel_right.setVelocity(max_Velocity)
+
+wheel_left.setPosition(float('inf'))
+wheel_right.setPosition(float('inf'))
+
+while robot.step(timeStep) != -1:
+    pass
