@@ -60,6 +60,3 @@ while robot.step(timeStep) != -1:
     
     if frontSensors[0].getValue() < 80.0 or frontSensors[1].getValue() < 80.0:
         spin()
-
-    wheel_left.setVelocity(speeds[0])
-    wheel_left.setVelocity(speeds[1])
