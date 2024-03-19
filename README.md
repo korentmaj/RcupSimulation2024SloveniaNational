@@ -17,6 +17,6 @@ This repository is dedicated to our project for the Erebus RoboCup Rescue Simula
 To get started with this project, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/erebus-robocup-rescue.git
+git clone https://github.com/korentmaj/Erebus2024Slovenia
 cd erebus-robocup-rescue
 
