@@ -1,4 +1,7 @@
-[![Erebus Documentation](https://img.shields.io/badge/View-Documentation-blue)](https://erebus.rcj.cloud/docs)
+[![Erebus Documentation](https://img.shields.io/badge/View-Documentation-blue)](https://erebus.rcj.cloud/docs) [![Robot Customisation](https://img.shields.io/badge/Robot-Customisation-red)](https://v23.robot.erebus.rcj.cloud)
+[![Robot Customisation](https://img.shields.io/badge/Map-Builder-orange)](https://osaka.rcj.cloud/service/editor/simulation/2023)
+[![Robot Customisation](https://img.shields.io/badge/Rules-2023-black)](https://junior.robocup.org/wp-content/uploads/2023/02/RCJRescueSimulation2023RulesFinal.pdf)
+
 
 # Erebus RoboCup Rescue Simulation Project | 2024 Slovenia
 
