@@ -6,17 +6,9 @@
 # Erebus RoboCup Rescue Simulation Project | 2024 Slovenia
 
 ## Project Overview
-This repository is dedicated to our project for the Erebus RoboCup Rescue Simulation competition. Our team is developing innovative solutions to navigate the challenging environments of the competition, focusing on autonomous robot control, real-time sign recognition, and effective strategy implementation. Our goal is to push the boundaries of what's possible with AI and robotics in rescue scenarios.
+In this repository, you will find the complete Erebus model tailored for the RCJ Simulation competition of the year 2024. It includes a collection of controllers, datasets, scripts, worlds, and robot models essential for competing in Erebus events. Whether you're just starting or aiming to elevate your competitiveness, everything you need to begin your journey into Erebus competition is right here.
 
 ## Features
 - **Autonomous Navigation:** Utilizing advanced algorithms for seamless navigation through complex terrains.
 - **Real-Time Sign Recognition:** Implementing cutting-edge machine learning models to recognize and interpret signs accurately.
 - **Strategy Optimization:** Developing strategies to maximize the efficiency and effectiveness of rescue operations.
-
-## Getting Started
-To get started with this project, clone the repository and install the necessary dependencies.
-
-```bash
-git clone https://github.com/korentmaj/Erebus2024Slovenia
-cd erebus-robocup-rescue
-
