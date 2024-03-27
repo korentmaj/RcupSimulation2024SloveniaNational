@@ -1,0 +1,3 @@
+Position se računa sao z accelerometrom kamera je sao za farbo podlage, black hole pa victim detection
+
+navigation je purley na accelerometru
