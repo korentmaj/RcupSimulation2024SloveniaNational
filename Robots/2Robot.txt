@@ -1,3 +1,4 @@
 Position se računa sao z accelerometrom kamera je sao za farbo podlage, black hole pa victim detection
+"mby color sensor if not too expensive"
 
 navigation je purley na accelerometru
