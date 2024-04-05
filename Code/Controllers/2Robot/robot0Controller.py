@@ -8,8 +8,8 @@ class MyRobot(Robot):
     def __init__(self):
         super(MyRobot, self).__init__()
         # Initialize motors with the custom names provided
-        self.left_motor = self.getDevice('wheel1')
-        self.right_motor = self.getDevice('wheel2')
+        self.left_motor = self.getDevice('Wheel1')
+        self.right_motor = self.getDevice('Wheel2')
         self.left_motor.setPosition(float('inf'))  # Velocity control mode
         self.right_motor.setPosition(float('inf'))
         self.left_motor.setVelocity(0.0)  # Initial speed
