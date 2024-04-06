@@ -1,4 +1,12 @@
 Position se računa sao z accelerometrom kamera je sao za farbo podlage, black hole pa victim detection
 "mby color sensor if not too expensive"
 
+
+
 navigation je purley na accelerometru
+
+
+če robot gre horizontalno zračunaš isto kot bi zračunal vektor
+
+Sepravi na podlagi tega lahko potem tudi narišeš table mape - za pointe za mapping
+
