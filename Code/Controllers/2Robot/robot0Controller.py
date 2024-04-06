@@ -25,3 +25,5 @@ class MyRobot(Robot):
 if __name__ == "__main__":
     robot_instance = MyRobot()
     robot_instance.run()
+
+
