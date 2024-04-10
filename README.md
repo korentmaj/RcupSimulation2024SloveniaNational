@@ -11,4 +11,4 @@ In this repository, you will find the complete Erebus model tailored for the RCJ
 ## Features
 - **Autonomous Navigation:** Utilizing advanced algorithms for seamless navigation through complex terrains.
 - **Real-Time Sign Recognition:** Implementing cutting-edge machine learning models to recognize and interpret signs accurately.
-- **Strategy Optimization:** Developing strategies to maximize the efficiency and effectiveness of rescue operations.
+- **Strategy Optimization:** Developing strategies to maximize the efficiency and effectiveness of rescue operations
